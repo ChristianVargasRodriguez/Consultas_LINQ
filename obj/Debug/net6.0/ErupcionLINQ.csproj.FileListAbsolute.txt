@@ -1,0 +1,15 @@
+C:\Users\chris\Desktop\Curso C+ Net\LINQ\ErupcionLINQ\bin\Debug\net6.0\ErupcionLINQ.exe
+C:\Users\chris\Desktop\Curso C+ Net\LINQ\ErupcionLINQ\bin\Debug\net6.0\ErupcionLINQ.deps.json
+C:\Users\chris\Desktop\Curso C+ Net\LINQ\ErupcionLINQ\bin\Debug\net6.0\ErupcionLINQ.runtimeconfig.json
+C:\Users\chris\Desktop\Curso C+ Net\LINQ\ErupcionLINQ\bin\Debug\net6.0\ErupcionLINQ.dll
+C:\Users\chris\Desktop\Curso C+ Net\LINQ\ErupcionLINQ\bin\Debug\net6.0\ErupcionLINQ.pdb
+C:\Users\chris\Desktop\Curso C+ Net\LINQ\ErupcionLINQ\obj\Debug\net6.0\ErupcionLINQ.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Curso C+ Net\LINQ\ErupcionLINQ\obj\Debug\net6.0\ErupcionLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Curso C+ Net\LINQ\ErupcionLINQ\obj\Debug\net6.0\ErupcionLINQ.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Curso C+ Net\LINQ\ErupcionLINQ\obj\Debug\net6.0\ErupcionLINQ.AssemblyInfo.cs
+C:\Users\chris\Desktop\Curso C+ Net\LINQ\ErupcionLINQ\obj\Debug\net6.0\ErupcionLINQ.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Curso C+ Net\LINQ\ErupcionLINQ\obj\Debug\net6.0\ErupcionLINQ.dll
+C:\Users\chris\Desktop\Curso C+ Net\LINQ\ErupcionLINQ\obj\Debug\net6.0\refint\ErupcionLINQ.dll
+C:\Users\chris\Desktop\Curso C+ Net\LINQ\ErupcionLINQ\obj\Debug\net6.0\ErupcionLINQ.pdb
+C:\Users\chris\Desktop\Curso C+ Net\LINQ\ErupcionLINQ\obj\Debug\net6.0\ErupcionLINQ.genruntimeconfig.cache
+C:\Users\chris\Desktop\Curso C+ Net\LINQ\ErupcionLINQ\obj\Debug\net6.0\ref\ErupcionLINQ.dll
